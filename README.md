@@ -1,4 +1,4 @@
-# Instagram-clone-tw
+# Must Read
 
 README before running project
 
